@@ -29,3 +29,9 @@ Use Shift-Command-P to bring up the Visual Studio Command Palette
 
 1. Shift-Command-P: .NET MAUI Pick...
     1. Use this to pick the target platform to debug in. (iOS Simuiator, iOS Device, Android etc.)
+
+## Compile
+
+1. Shift-Command-P: .NET Build
+
+
