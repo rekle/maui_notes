@@ -25,3 +25,7 @@ Use Shift-Command-P to bring up the Visual Studio Command Palette
     4. Install the XCode command line tools
         1. xcode-select --install
     
+## Debugging
+
+1. Shift-Command-P: .NET MAUI Pick...
+    1. Use this to pick the target platform to debug in. (iOS Simuiator, iOS Device, Android etc.)
