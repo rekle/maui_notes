@@ -1,13 +1,15 @@
 # Developing in .NET MAUI
 
+Use Shift-Command-P to bring up the Visual Studio Command Palette
+
 ## Installation
 
 [Youtube Video showing how to configure Visual Studio Code for .NET Maui development](https://www.youtube.com/watch?v=1t2zzoW4D98)
 
 [Microsoft .NET Maui installation instructions](https://learn.microsoft.com/en-us/dotnet/maui/get-started/installation?view=net-maui-9.0&viewFallbackFrom=net-maui-8.0&tabs=visual-studio-code#iosxcode-setup)
 
-1. Download .NET Core installer
-2. Download Android Studio and run the default install.  Don't install Microsoft OpenJDK from the command line.
+1. [Download .NET Core installer](https://dotnet.microsoft.com/en-us/download)
+2. [Download Android Studio](https://developer.android.com/studio?gclsrc=aw.ds&gad_source=1&gbraid=0AAAAAC-IOZlaUsNJyzSrm3iR55dfG3OiK&gclid=CjwKCAjwp8--BhBREiwAj7og1zz6G4co3Lu6ummTDNbS-bipg2CNC3NmVgaSfN6CH9QLXc7TWMS2CRoCKcoQAvD_BwE) and run the default install.  Don't install Microsoft OpenJDK from the command line.
 3. [Download & Install Visual Studio Code](https://code.visualstudio.com/)
 4. Add the .NET Maui Extension to Visual Studio Code
 5. Add all the maui* Dotnet workflows
